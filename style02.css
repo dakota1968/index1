@@ -1,0 +1,33 @@
+body {
+  background-color: skyblue;
+  color: DarklateBlue;
+  font-family: 'Areial', sans-serif;
+  font-family: 'Libre Baskerville', serif;
+  font-style: italic;
+  line-height: 2;
+  text-shadow: 2px 2px 2px #888;
+}
+
+h1 {
+  font-weight: normal;
+  font-style: italic;
+  font-size: 54px;
+}
+
+h1{
+  text-align: center;
+}
+
+h1,  h2 {
+  font-weight: normal;
+  font-style: italic;
+  font-size: 54px;
+}
+
+p {
+     line-height: 5;
+}
+
+li {
+    font-size: 32px;
+  }
